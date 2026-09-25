@@ -1,2 +1,1 @@
-# jamika-pet-politica
-Políticas de Privacidad
+Políticas de Privacidad de JAMIKA PET
